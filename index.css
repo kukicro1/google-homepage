@@ -1,0 +1,31 @@
+.navbar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;}
+
+.desno {float: right;
+    display: flex;
+    margin: 10px;}
+
+.linkovi {margin-right: 10px;
+    position: relative;
+    top: 10px;}
+.linkovi>a {margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    text-decoration: none;}
+.linkovi>a:hover {
+    text-decoration: underline;}
+.aplikacije {margin-right: 20px;}
+#aplications {width: 75%;}
+.prijavitese {margin-right: 20px;
+    position: relative;
+    top: 10px;}
+
+.foogleimage>img {width: 272px;}
+
+.foogleimage {text-align: center;
+    margin-top: 20%;}
+
